@@ -1,0 +1,11 @@
+{
+  "name": "polymer-vue-webpack",
+  "description": "Example showing how to use webpack to build a Vue+Polymer app",
+  "authors": [
+    "David Leonard <davidrobertleonard@gmail.com>"
+  ],
+  "private": true,
+  "dependencies": {
+    "px-toggle": "polymer2.0-preview"
+  }
+}
