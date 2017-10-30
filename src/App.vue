@@ -21,6 +21,8 @@
 </template>
 
 <script>
+import '../bower_components/px-toggle/px-toggle.html';
+
 export default {
   name: 'app',
   data () {
